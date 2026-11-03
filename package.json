@@ -23,6 +23,7 @@
     "next": "13.4.3",
     "node-appwrite": "^9.0.0",
     "postcss": "8.4.23",
+    "posthog-js": "^1.444.4",
     "react": "18.2.0",
     "react-csv-downloader": "^2.9.1",
     "react-dom": "18.2.0",
